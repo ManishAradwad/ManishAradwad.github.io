@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manish_aradwad</title>
+    <link>https://manisharadwad.github.io/</link>
+    <description>Recent content on manish_aradwad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Sep 2023 11:26:20 +0530</lastBuildDate><atom:link href="https://manisharadwad.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>past projects</title>
+      <link>https://manisharadwad.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manisharadwad.github.io/projects/</guid>
+      <description>automated detection of defects in a running freight train this was my master&amp;rsquo;s thesis at IISc where i trained different CNN models to detect defects in different parts of the train and they worked pretty well in the production
+apparel recommendation system developed a system that recommends fashion apparel based on user feedback
+GANs from scratch here&amp;rsquo;s my attempt at implementing DCGAN, LSGAN and BiGAN from scratch using tensorflow to generate new bitmojis</description>
+    </item>
+    
+    <item>
+      <title>work experience</title>
+      <link>https://manisharadwad.github.io/exp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manisharadwad.github.io/exp/</guid>
+      <description>Data Scientist @ Carelon GS &amp;ndash; july &#39;23 - present currently working on optimizing and parallelizing an NLP pipeline for automatic attachment classification of a claim form Computer Vision Research Intern @ Entrupy &amp;ndash; may &#39;22 - aug &#39;22 performed monocular depth estimation from RGB images using PyTorch generated synthetic data using Blender&amp;rsquo;s python API for training this depth estimation model trained a model for segmentation of size tag from the RGB image generated a 3d mesh using the estimated depth and performed unwarping of the mesh for OCR don&amp;rsquo;t have the access to code anymore so here&amp;rsquo;s the report of the whole thing Teaching Assistant @ IISc, Bangalore &amp;ndash; jan &#39;23 - april &#39;23 worked as a TA for Advanced Image Processing(E9 246) course under Prof.</description>
+    </item>
+    
+    <item>
+      <title>written stuff</title>
+      <link>https://manisharadwad.github.io/journals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manisharadwad.github.io/journals/</guid>
+      <description>assorted neural style transfer a spin-off of regular neural style transfer, where i tried to combine styles from three different inputs into one content image
+creating gradients from numpy wrote this tutorial during an internship cause couldn&amp;rsquo;t find any reliable source on creating gradient images from only python code
+apparel recommendation system built this primitive and simple recommendation system during a hackathon and was surprised to see that it works</description>
+    </item>
+    
+  </channel>
+</rss>
