@@ -33,9 +33,9 @@ GANs from scratch here&amp;rsquo;s my attempt at implementing DCGAN, LSGAN and B
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://manisharadwad.github.io/journals/</guid>
-      <description>assorted neural style transfer a spin-off of regular neural style transfer, where i tried to combine styles from three different inputs into one content image
-creating gradients from numpy wrote this tutorial during an internship cause couldn&amp;rsquo;t find any reliable source on creating gradient images from only python code
-apparel recommendation system built this primitive and simple recommendation system during a hackathon and was surprised to see that it works</description>
+      <description>why knn doesn&amp;rsquo;t scale to large datasets an in-depth exploration into the limitations of knn when applied to large datasets, a topic often overlooked in conventional machine learning discussions.
+assorted neural style transfer a spin-off of regular neural style transfer, where i tried to combine styles from three different inputs into one content image
+creating gradients from numpy wrote this tutorial during an internship cause couldn&amp;rsquo;t find any reliable source on creating gradient images from only python code</description>
     </item>
     
   </channel>
